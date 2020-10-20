@@ -1,7 +1,18 @@
-# Integration-Solver-2.0
+# Integration Solver 2.0
+A simple desktop application to solve definite integration using "LIMIT OF A SUM" in mathematics.
+### Programming Language:
+Python 3
 
-Integration Solver
+### Modules Used:
+- tkinter (UI design)
+- [matplotlib](https://pypi.org/project/matplotlib/) (Graph ploting)
+- math (Mathematical functions)
 
-Go through the instructions.
+### Sample Screenshot:
+![img1](./Screenshots/Screenshot(114).png)
 
-The input is not the usual way we write in our copies.
+![img1](./Screenshots/Screenshot(115).png) 
+  
+  
+
+
