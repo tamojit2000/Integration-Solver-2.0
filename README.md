@@ -9,9 +9,9 @@ Python 3
 - math (Mathematical functions)
 
 ### Sample Screenshot:
-![img1](Screenshots/Screenshot(114).png)
+![img1](https://user-images.githubusercontent.com/48746076/96537719-96e5fc00-12b4-11eb-8da2-56c7918a00be.png)
+![img2](https://user-images.githubusercontent.com/48746076/96537734-9fd6cd80-12b4-11eb-9fc3-5d4e1f853aa9.png)
 
-![img2](Screenshots/Screenshot(115).png) 
   
   
 
